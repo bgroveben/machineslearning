@@ -5,4 +5,4 @@ Thanks for the Xmas gift, O'Reilly!
 
 Supplemental materials (CheatSheets!) available at https://github.com/thoughtfulml/examples.
 
-Ch_1 pp12: Reduce Overfitting Risk by Testing the Speed of Training
+Ch_2 pp15: A Quick Introduction to Machine Learning
