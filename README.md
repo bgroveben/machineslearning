@@ -5,4 +5,4 @@ Thanks for the Xmas gift, O'Reilly!
 
 Supplemental materials (CheatSheets!) available at https://github.com/thoughtfulml/examples.
 
-Ch_2 pp15: A Quick Introduction to Machine Learning
+Ch_3 pp21: K-Nearest Neighbors Classification
