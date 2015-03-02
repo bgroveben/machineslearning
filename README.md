@@ -5,4 +5,4 @@ Thanks for the Xmas gift, O'Reilly!
 
 Supplemental materials (CheatSheets!) available at https://github.com/thoughtfulml/examples.
 
-Ch_3 pp25: How Do You Pick K?
+Ch_3 pp32: Determining Classes
