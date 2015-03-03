@@ -18,3 +18,11 @@
 # - Minkowski distance (generalization of Euclidean and Taxicab distances)
 # - Mahalanobis distance (pp31; for data that is not symmetric)
 #   - similar to Euclidean distance, but it considers the given standard deviation of the dimensions.
+
+# Determining Classes (pp32):
+# As the number of attributes that you are modeling increases, the number of classes also increases exponentially.
+#  - 2 attributes yields 3 classes, 3 attributes yields 7 classes, 4 attributes yields 15 classes, and so on.
+#  - The amount of classes will be 2**n-1 where n is the number of attributes.
+
+# The Curse of Dimensionality (pp34):
+# Simply put, highly dimensional data tends to be sparse and far apart.
