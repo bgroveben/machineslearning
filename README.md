@@ -5,4 +5,4 @@ Thanks for the Xmas gift, O'Reilly!
 
 Supplemental materials (CheatSheets!) available at https://github.com/thoughtfulml/examples.
 
-Ch_3 pp34: Beard and Glasses Detection Using KNN and OpenCV
+Ch_3 pp35: The Class Diagram
