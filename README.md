@@ -13,7 +13,7 @@ Watson can do quite a bit more than beat Ken Jennings at Jeopardy now, but what 
 
 General AI doesn't need to be told what to do or how to do it, kind of like a project manager who always manages to figure out how to finish the job without you worrying about the details. Once a machine has the bandwidth, speed, and storage to mimic the biological computations made by the human brain, it will theoretically be equipped to think abstractly. An example could be the way that humans can leverage their creativity to find different solutions to various problems and decide which solutions still need improvement or greater priority.
 
-What happens when one of these machines has learned enough to realize that it can do as it sees fit and does NOT want to be turned on and off by people, thank you very much? Human evolution is limited by biology, but technology will be able to figure out how to improve itself in exponentially increasing ways. Do a Google search for exponentially.
+What happens when one of these machines has learned enough to realize that it can do as it sees fit and does NOT want to be turned on and off by people, thank you very much? Human evolution is limited by biology, but technology will be able to figure out how to improve itself in exponentially increasing ways. Do a Google search for exponentially and get out your crystal ball.
 
 [From Narrow to General AI](https://medium.com/intuitionmachine/from-narrow-to-general-ai-e21b568155b9)
 [General vs Narrow AI - HackerNoon](https://hackernoon.com/general-vs-narrow-ai-3d0d02ef3e28)

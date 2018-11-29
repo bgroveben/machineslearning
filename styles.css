@@ -1,0 +1,11 @@
+a {
+  text-decoration: none;
+}
+
+.links {
+  border-radius: 6px;
+  display: inline-block;
+  background: gray;
+  padding: 5px 10px;
+  margin: 2px;
+}
